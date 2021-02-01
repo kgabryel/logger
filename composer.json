@@ -1,0 +1,11 @@
+{
+  "name": "frankie/logger",
+  "autoload": {
+    "psr-4": {
+      "Frankie\\Logger\\": "src"
+    }
+  },
+  "require": {
+    "monolog/monolog": "^1.24"
+  }
+}
